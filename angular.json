@@ -50,9 +50,13 @@
               "src/assets"
             ],
             "styles": [
+              "revisao/node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "revisao/node_modules/jquery/dist/jquery.min.js",
+              "revisao/node_modules/bootstrap/dist/js/bootstrap.min.js"
+            ]
           },
           "configurations": {
             "production": {
