@@ -50,12 +50,12 @@
               "src/assets"
             ],
             "styles": [
-              "revisao/node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": [
-              "revisao/node_modules/jquery/dist/jquery.min.js",
-              "revisao/node_modules/bootstrap/dist/js/bootstrap.min.js"
+              "node_modules/jquery/dist/jquery.min.js",
+              "node_modules/bootstrap/dist/js/bootstrap.min.js"
             ]
           },
           "configurations": {
@@ -123,5 +123,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "a443b10d-d1b5-4cd5-8aaf-97a4f42ca904"
   }
 }
